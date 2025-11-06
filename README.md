@@ -2,7 +2,7 @@
 (อินเทอร์เฟซสัญญาณ Arduino และระบบตรวจสอบ)
 <div align="center">
 
-![ASIMS Banner](https://via.placeholder.com/800x200/2D3748/FFFFFF?text=ASIMS+Arduino+Signal+Interface+%26+Monitoring+System)
+[![ASIMS Banner](https://via.placeholder.com/800x200/2D3748/FFFFFF?text=ASIMS+Arduino+Signal+Interface+%26+Monitoring+System)
 
 **ระบบอินเทอร์เฟซและมอนิเตอร์สัญญาณ Analog ที่มีความปลอดภัยสำหรับ Arduino**
 
