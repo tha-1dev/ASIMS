@@ -1,5 +1,5 @@
-# 🚀 ASIMS - Arduino Signal Interface & Monitoring System
-
+# 🚀 ASIMS (Arduino Signal Interface & Monitoring System)
+(อินเทอร์เฟซสัญญาณ Arduino และระบบตรวจสอบ)
 <div align="center">
 
 ![ASIMS Banner](https://via.placeholder.com/800x200/2D3748/FFFFFF?text=ASIMS+Arduino+Signal+Interface+%26+Monitoring+System)
